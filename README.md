@@ -63,12 +63,6 @@ The dataset consists of historical sales data, typically structured as a time se
 
 Ensure that the data contains sufficient historical sales records to train the model.
 
-## Models
-
-- **Time Series Models:**
-  - **ARIMA (Auto-Regressive Integrated Moving Average)**: One of the most widely used models for time series forecasting.
-  - **Prophet**: A forecasting tool developed by Facebook that is robust to missing data and can handle seasonality and holidays.
-  - **LSTM (Long Short-Term Memory)**: A deep learning model that can be used for more complex, non-linear time series data.
 
 ## Evaluation
 
